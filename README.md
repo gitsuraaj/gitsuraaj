@@ -22,11 +22,7 @@ Github Profile README Generator
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hgitsuraaj&show_icons=true" alt="hgitsuraaj" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraajhasija/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/suraajhasija/" height="30" width="30" /></a>
-<a href="https://dribbble.com/suraaj hasija" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="suraaj hasija" height="30" width="30" /></a>
-<a href="https://www.behance.net/suraaj hasija" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="suraaj hasija" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/suraajhasija/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/suraajhasija/" height="30" width="30" /></a>
+
 </p>
-About
-Addons
-Support
-Developed in India 🇮🇳
+
