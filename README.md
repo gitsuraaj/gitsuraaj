@@ -15,7 +15,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsuraaj&show_icons=true" alt="gitsuraaj" /></p>
 [
 
-
 <p align="center">
 <a href="https://linkedin.com/in/suraajhasija/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/suraajhasija/" height="30" width="30" /></a>
 
