@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuraaj" alt="gitsuraaj" /> </p>
 
-- 🌱 I’m currently learning **Deep learning**
+- 🌱 I’m currently exploring **Deep learning**
 
-- 💬 Ask me about **Data Science, Machine learning, Technical Analysis, Value Investing**
+- 💬 Ask me about **Analytics, Data Science, Machine learning, Technical Analysis of stocks, Value Investing**
 
 - 📫 How to reach me **mailbox.suraaj@gmail.com**
 
