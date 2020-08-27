@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Suraaj Hasija</h1>
-<h3 align="center">Full Stack Data Scientist | Machine Learning | Strategy | Value Investing | Ex-ZS</h3>
+<h3 align="center">Full Stack Data Scientist | Problem Solving| Machine Learning | Strategy | Value Investing | Ex-ZS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuraaj" alt="gitsuraaj" /> </p>
 
