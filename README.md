@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Suraaj Hasija</h1>
-<h3 align="center">Full Stack Data Scientist | AI Practitioner| Analytics Ninja</h3>
+<h3 align="center">Full Stack Data Scientist | AI Practitioner | Analytics Ninja</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuraaj" alt="gitsuraaj" /> </p>
 
