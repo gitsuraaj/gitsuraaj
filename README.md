@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Suraaj Hasija</h1>
-<h3 align="center"> Just Another Data Scientist | AI Practitioner | Analytics Ninja </h3>
+<h3 align="center"> Just Another Analytics Professional | AI Practitioner | Analytics Ninja </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitsuraaj" alt="gitsuraaj" /> </p>
 
 - 🌱 I’m currently exploring **Deep learning**
 
-- 💬 Ask me about **Analytics, Data Science, Machine learning, Technical Analysis of stocks, Value Investing**
+- 💬 Ask me about **Analytics, Data Science, Machine learning, Technical Analysis of Stocks, Value Investing**
 
 - 📫 How to reach me **mailbox.suraaj@gmail.com**
 
