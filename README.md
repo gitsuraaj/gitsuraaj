@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **mailbox.suraaj@gmail.com**
 
-- **Reach out directly on Linkedin if you need any dataset related to my projects** : https://www.linkedin.com/in/suraajhasija/
+- **Reach out directly on Linkedin if you need any help with datasets (from my projects) ** : https://www.linkedin.com/in/suraajhasija/
 <p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gitsuraaj&show_icons=true" alt="gitsuraaj" /></p>
 
 </p>
